@@ -190,14 +190,13 @@ The SQL analysis was used to build an interactive Power BI report consisting of 
 
 ## Executive Sales Overview
 
-*(Insert Screenshot Here)*
+![Executive Dashboard](Executive-Dashboard.png)
 
 ---
 
 ## Store & Product Performance
 
-*(Insert Screenshot Here)*
-
+![Store & Product Performance](Store-product-performance.png)
 ---
 
 # 📚 Skills Demonstrated
