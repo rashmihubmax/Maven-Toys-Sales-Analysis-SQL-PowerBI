@@ -54,8 +54,7 @@ Maven-Toys-Sales-Analysis/
 │
 ├── Dataset/
 │
-├── Images/
-│   ├── Executive Dashboard.png
+├── ├── Executive Dashboard.png
 │   ├── Store Performance Dashboard.png
 │
 └── README.md
